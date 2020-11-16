@@ -58,5 +58,6 @@ def tashizan(a,b):
 c = tashizan(1,5)
 print(c)
 
+#変数
 
 
