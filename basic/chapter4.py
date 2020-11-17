@@ -60,4 +60,11 @@ print(c)
 
 #変数
 
+c = tashizan(1,5)
+
+total = 0
+for i in range(a,b,+1):
+  total = total + 1
+  
+
 
