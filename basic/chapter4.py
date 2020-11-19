@@ -65,6 +65,21 @@ c = tashizan(1,5)
 total = 0
 for i in range(a,b,+1):
   total = total + 1
-  
+
+a = "abc"
+
+def test():
+  print(a)
+  return
+
+test()
+print(a)
+
+#4-7 p116
+
+import calendar as c
+print(c.month(2017,12))
+
+from calendar impoet mpnth
 
 

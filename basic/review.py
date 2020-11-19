@@ -5,4 +5,9 @@ def tashizan(a,b):
   return total
 
 c = tashizan(1,5)
-total = 0
+print(c)
+
+#関数は定義しただけでは実行されないので、呼び出して実行してみましょう。
+
+
+
