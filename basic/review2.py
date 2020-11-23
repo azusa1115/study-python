@@ -34,4 +34,10 @@ b = input("数を入れてね＞")
 if len(b)!=4:
   print("４桁の数字を入力してください")
 
-
+isok = False
+while isok == False:
+  b = input("数を入れてえね")
+if len(b) !=4:
+  print("4桁の数字を入れてください")
+  else:
+    isok = True
