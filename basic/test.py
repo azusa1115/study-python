@@ -7,7 +7,6 @@ print("あいう\
 import tkinter
 tkinter.Label(None,text="Hello").pack()
 
-
 print(1+2)
 
 import calendar
